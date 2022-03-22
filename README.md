@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryaadinulfadlan
 - 👀 I’m interested in HTML, CSS and ReactJS
 - 🌱 I’m currently learning CSS and ReactJS
-- 💞️ I’m looking to collaborate on Frontend Developer
+- 💞️ I'm currently fall in love with ReactJS
 - 📫 How to reach me 085210724142
 
 <!---
