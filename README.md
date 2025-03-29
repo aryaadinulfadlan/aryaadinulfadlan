@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arya Adinul Fadlan
-- 💞️ I'm currently fall in love with TypeScript, React JS and Next JS
+- 💞️ I'm currently fall in love with Golang
 - 📫 How to reach me +62852 1072 4142
 
 <!---
